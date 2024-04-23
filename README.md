@@ -1,6 +1,8 @@
 # QuantaRoute
 
-![QuantaRoute Logo](doc/QuantRoute.png)
+<p align="center">
+  <img src="doc/QuantRoute.png" alt="QuantaRoute Logo" width="200" height="auto">
+</p>
 
 Welcome to QuantaRoute!
 
