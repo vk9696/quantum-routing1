@@ -1,7 +1,7 @@
 # QuantaRoute
 
 <p align="center">
-  <img src="doc/QuantRoute.png" alt="QuantaRoute Logo" width="200" height="auto">
+  <img src="doc/QuantRoute.png" alt="QuantaRoute Logo" width="400" height="auto">
 </p>
 
 Welcome to QuantaRoute!
