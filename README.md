@@ -16,6 +16,8 @@ A Python-driven simulator designed for grid and cylindrical topologies in quantu
 - **Visual Network Representation:** View the quantum network topology.
 
 ## References
+- **Published Version:** Kumar, V., Cicconetti, C., Conti, M., & Passarella, A. (2024, October). Routing in Quantum Repeater Networks with Mixed Efficiency Figures. In 2024 IEEE Future Networks World Forum (FNWF) (pp. 198-203). IEEE.
+
 - **Preprint:** Kumar, Vinay, et al. "Routing in Quantum Repeater Networks with Mixed Efficiency Figures." arXiv preprint arXiv:2310.08990 (2023).
   
 ## Installation
